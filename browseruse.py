@@ -19,7 +19,7 @@ async def main():
         max_actions_per_step=4,
     )
     result = await agent.run()
-    result.save_as_playwright_script('playwright/script')
+    # result.save_as_playwright_script('playwright/script')
     
     print(result)
 

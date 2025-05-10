@@ -2,6 +2,9 @@
 
 This project demonstrates browser automation using Google's Gemini AI model through the LangChain framework. It allows you to perform automated web tasks using natural language instructions.
 
+## Demo
+https://github.com/yourusername/browser-use-demo/raw/main/Browseruse-Demo.mp4
+
 ## Features
 
 - Automated web browsing using natural language instructions
@@ -71,4 +74,4 @@ task = 'Go to amazon.com, search for laptop, sort by best rating, and give me th
 
 ## Contributing
 
-[Add contribution guidelines here] 
+[Add contribution guidelines here]
